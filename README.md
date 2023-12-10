@@ -45,7 +45,7 @@ I am an experienced front-end developer with 3+ of expertise in the field. My pr
 - 📫 **dndphu@gmail.com**
 
 <a href="https://www.github.com/dndphu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dndphu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://raw.githubusercontent.com/dndphu/dndphu/935191a6ad3b4b47e26c16657c3ad403e0838fdc/images/github.svg" /></a>
 
 ### Badges
 
