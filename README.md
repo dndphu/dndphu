@@ -19,10 +19,9 @@ I am an experienced front-end developer with 3+ of expertise in the field. My pr
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/html5.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/vuejs.svg" width="36" height="36" alt="Vue" /></a>&nbsp;&nbsp;
 <a href="https://https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/nuxtjs.svg" width="36" height="36" alt="Nuxtjs" /></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/"><img src="https://github.com/dndphu/dndphu/blob/main/images/react.png?raw=true
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/"><img src="https://raw.githubusercontent.com/dndphu/dndphu/423384bef09a8cb644812b03b5e8b0776c89aa1d/images/react.svg
 " alt="React" width="36" height="36"></a>&nbsp;&nbsp;
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://nextjs.org/"><img src="https://github.com/dndphu/dndphu/blob/main/images/next.png?raw=true
-" alt="Next" width="36" height="36"></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/dndphu/dndphu/423384bef09a8cb644812b03b5e8b0776c89aa1d/images/next.svg" alt="Next" width="36" height="36"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/tailwind.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/sass.svg" width="36" height="36" alt="Sass" /></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;&nbsp;
