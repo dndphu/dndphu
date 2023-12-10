@@ -7,10 +7,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am an experienced front-end developer with 3+ of expertise in the field. My primary focus has been on web development, and I have a strong proficiency in various front-end technologies and frameworks
 
 * 🌍  I'm based in Ho Chi Minh, Viet Nam
-* 🧠  I'm learning NodeJS, ExpressJS, Web Design, UI/UX
+* 🧠  I'm learning Web Design, UI/UX
 
-<a href="https://www.github.com/dndphu" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dndphu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 
 ### Education
 
@@ -24,7 +23,11 @@ src="https://img.shields.io/github/followers/dndphu?logo=github&style=for-the-ba
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> &nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;&nbsp;
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>&nbsp;&nbsp;
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>&nbsp;&nbsp;
+<a href="https://https://nuxt.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/"><img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png
+" alt="React" width="36" height="36"></a>&nbsp;&nbsp;
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://nextjs.org/"><img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704
+" alt="Next" width="36" height="36"></a>&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>&nbsp;&nbsp;
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>&nbsp;&nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>&nbsp;&nbsp;
@@ -50,7 +53,8 @@ src="https://img.shields.io/github/followers/dndphu?logo=github&style=for-the-ba
 
 - 📫 **dndphu@gmail.com**
 
-
+<a href="https://www.github.com/dndphu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/dndphu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Badges
 
 <a href="https://github.com/dndphu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dndphu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
