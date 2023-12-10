@@ -36,16 +36,10 @@ I am an experienced front-end developer with 3+ of expertise in the field. My pr
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/macos.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/dndphu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
 ### Connect With Me
 
 - 📫 **dndphu@gmail.com**
 
-<a href="https://www.github.com/dndphu" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/dndphu/dndphu/935191a6ad3b4b47e26c16657c3ad403e0838fdc/images/github.svg" /></a>
 
 ### Badges
 
