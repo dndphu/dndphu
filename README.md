@@ -36,7 +36,7 @@ I am an experienced front-end developer with 3+ of expertise in the field. My pr
 <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/dndphu/dndphu/f2aad95926dc863e2c0853a0a7d3106f809daa08/images/macos.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-### [My CV ](https://raw.githubusercontent.com/dndphu/dndphu/main/cv/Do-Nguyen-Dinh-Phu.pdf) 👈
+### [My CV ](https://raw.githubusercontent.com/dndphu/dndphu/main/cv/Do-Nguyen-Dinh-Phu-CV.pdf) 👈
 
 
 ### Connect With Me
